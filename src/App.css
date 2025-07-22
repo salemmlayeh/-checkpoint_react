@@ -1,0 +1,15 @@
+.img{
+    width: 270px;
+    height: auto;
+    margin-bottom: 80px ;
+
+}
+.rep{
+    display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.ref{
+    display: flex;
+}
